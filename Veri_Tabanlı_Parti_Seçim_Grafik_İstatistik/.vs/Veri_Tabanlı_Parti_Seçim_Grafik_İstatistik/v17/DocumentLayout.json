@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7D393E-9E2F-4CA6-8158-F5DE46896323}|Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik.csproj|c:\\users\\elif.yildirim\\my_25te25\\veri_tabanl\u0131_parti_se\u00E7im_grafik_\u0130statistik\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7D393E-9E2F-4CA6-8158-F5DE46896323}|Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik.csproj|solutionrelative:frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7D393E-9E2F-4CA6-8158-F5DE46896323}|Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik.csproj|c:\\users\\elif.yildirim\\my_25te25\\veri_tabanl\u0131_parti_se\u00E7im_grafik_\u0130statistik\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A7D393E-9E2F-4CA6-8158-F5DE46896323}|Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik.csproj|solutionrelative:frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7D393E-9E2F-4CA6-8158-F5DE46896323}|Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik.csproj|c:\\users\\elif.yildirim\\my_25te25\\veri_tabanl\u0131_parti_se\u00E7im_grafik_\u0130statistik\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7D393E-9E2F-4CA6-8158-F5DE46896323}|Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik.csproj|solutionrelative:frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7D393E-9E2F-4CA6-8158-F5DE46896323}|Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik.csproj|c:\\users\\elif.yildirim\\my_25te25\\veri_tabanl\u0131_parti_se\u00E7im_grafik_\u0130statistik\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A7D393E-9E2F-4CA6-8158-F5DE46896323}|Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik.csproj|solutionrelative:frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\FrmGrafikler.cs",
+              "RelativeToolTip": "FrmGrafikler.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:17:42.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOyGiris.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\FrmOyGiris.cs",
+              "RelativeDocumentMoniker": "FrmOyGiris.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\FrmOyGiris.cs",
+              "RelativeToolTip": "FrmOyGiris.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwA4AAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:57:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:28:31.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmOyGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\FrmOyGiris.cs",
+              "RelativeDocumentMoniker": "FrmOyGiris.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\MY_25Te25\\Veri_Tabanl\u0131_Parti_Se\u00E7im_Grafik_\u0130statistik\\FrmOyGiris.cs [Design]",
+              "RelativeToolTip": "FrmOyGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:04:29.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
