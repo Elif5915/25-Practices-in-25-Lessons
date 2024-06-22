@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\bin\Debug\PassaParolaGame.exe.config
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\bin\Debug\PassaParolaGame.exe
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\bin\Debug\PassaParolaGame.pdb
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\obj\Debug\PassaParolaGame.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\obj\Debug\PassaParolaGame.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\obj\Debug\PassaParolaGame.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\obj\Debug\PassaParolaGame.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\obj\Debug\PassaParolaGame.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\obj\Debug\PassaParolaGame.exe
+C:\Users\elif.yildirim\MY_25Te25\PassaParolaGame\obj\Debug\PassaParolaGame.pdb
