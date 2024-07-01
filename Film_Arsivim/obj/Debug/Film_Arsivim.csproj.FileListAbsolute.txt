@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\bin\Debug\Film_Arsivim.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\bin\Debug\Film_Arsivim.exe
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\bin\Debug\Film_Arsivim.pdb
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\obj\Debug\Film_Arsivim.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\obj\Debug\Film_Arsivim.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\obj\Debug\Film_Arsivim.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\obj\Debug\Film_Arsivim.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\obj\Debug\Film_Arsivim.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\obj\Debug\Film_Arsivim.exe
+C:\Users\elif.yildirim\MY_25Te25\Film_Arsivim\obj\Debug\Film_Arsivim.pdb
