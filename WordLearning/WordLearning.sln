@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordLearning", "WordLearning.csproj", "{3C88C3B5-624A-4BF5-8053-42CC08CB3935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C88C3B5-624A-4BF5-8053-42CC08CB3935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C88C3B5-624A-4BF5-8053-42CC08CB3935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C88C3B5-624A-4BF5-8053-42CC08CB3935}.Debug|x86.ActiveCfg = Debug|x86
+		{3C88C3B5-624A-4BF5-8053-42CC08CB3935}.Debug|x86.Build.0 = Debug|x86
+		{3C88C3B5-624A-4BF5-8053-42CC08CB3935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C88C3B5-624A-4BF5-8053-42CC08CB3935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C88C3B5-624A-4BF5-8053-42CC08CB3935}.Release|x86.ActiveCfg = Release|x86
+		{3C88C3B5-624A-4BF5-8053-42CC08CB3935}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25654195-0715-4DAA-9A0D-ED80CBC03713}
+	EndGlobalSection
+EndGlobal

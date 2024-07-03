@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\bin\Debug\WordLearning.exe.config
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\bin\Debug\WordLearning.exe
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\bin\Debug\WordLearning.pdb
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\obj\Debug\WordLearning.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\obj\Debug\WordLearning.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\obj\Debug\WordLearning.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\obj\Debug\WordLearning.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\obj\Debug\WordLearning.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\obj\Debug\WordLearning.exe
+C:\Users\elif.yildirim\MY_25Te25\WordLearning\obj\Debug\WordLearning.pdb
