@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Hareket\bin\Debug\Hareket.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Hareket\bin\Debug\Hareket.exe
+C:\Users\elif.yildirim\MY_25Te25\Hareket\bin\Debug\Hareket.pdb
+C:\Users\elif.yildirim\MY_25Te25\Hareket\obj\Debug\Hareket.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Hareket\obj\Debug\Hareket.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\Hareket\obj\Debug\Hareket.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Hareket\obj\Debug\Hareket.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Hareket\obj\Debug\Hareket.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Hareket\obj\Debug\Hareket.exe
+C:\Users\elif.yildirim\MY_25Te25\Hareket\obj\Debug\Hareket.pdb
