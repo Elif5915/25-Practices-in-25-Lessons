@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elif.yildirim\\MY_25Te25\\Nesne_Hareketler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36BF0057-CD67-4B25-8F0C-079ED429D8A4}|Nesne_Hareketler.csproj|c:\\users\\elif.yildirim\\my_25te25\\nesne_hareketler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36BF0057-CD67-4B25-8F0C-079ED429D8A4}|Nesne_Hareketler.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BF0057-CD67-4B25-8F0C-079ED429D8A4}|Nesne_Hareketler.csproj|c:\\users\\elif.yildirim\\my_25te25\\nesne_hareketler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BF0057-CD67-4B25-8F0C-079ED429D8A4}|Nesne_Hareketler.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\MY_25Te25\\Nesne_Hareketler\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\MY_25Te25\\Nesne_Hareketler\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:13:22.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elif.yildirim\\MY_25Te25\\Nesne_Hareketler\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\elif.yildirim\\MY_25Te25\\Nesne_Hareketler\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:55:21.18Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

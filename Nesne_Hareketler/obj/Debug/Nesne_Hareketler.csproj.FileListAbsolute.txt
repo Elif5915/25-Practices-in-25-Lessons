@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\bin\Debug\Nesne_Hareketler.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\bin\Debug\Nesne_Hareketler.exe
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\bin\Debug\Nesne_Hareketler.pdb
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\obj\Debug\Nesne_Hareketler.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\obj\Debug\Nesne_Hareketler.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\obj\Debug\Nesne_Hareketler.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\obj\Debug\Nesne_Hareketler.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\obj\Debug\Nesne_Hareketler.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\obj\Debug\Nesne_Hareketler.exe
+C:\Users\elif.yildirim\MY_25Te25\Nesne_Hareketler\obj\Debug\Nesne_Hareketler.pdb
