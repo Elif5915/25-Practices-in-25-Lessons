@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Rehber\bin\Debug\Rehber.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Rehber\bin\Debug\Rehber.exe
+C:\Users\elif.yildirim\MY_25Te25\Rehber\bin\Debug\Rehber.pdb
+C:\Users\elif.yildirim\MY_25Te25\Rehber\obj\Debug\Rehber.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Rehber\obj\Debug\Rehber.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Rehber\obj\Debug\Rehber.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Rehber\obj\Debug\Rehber.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Rehber\obj\Debug\Rehber.exe
+C:\Users\elif.yildirim\MY_25Te25\Rehber\obj\Debug\Rehber.pdb
+C:\Users\elif.yildirim\MY_25Te25\Rehber\obj\Debug\Rehber.REHBER.resources
