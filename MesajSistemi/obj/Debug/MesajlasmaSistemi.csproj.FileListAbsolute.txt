@@ -1,0 +1,11 @@
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\bin\Debug\MesajSistemi.exe.config
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\bin\Debug\MesajSistemi.exe
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\bin\Debug\MesajSistemi.pdb
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\obj\Debug\MesajlasmaSistemi.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\obj\Debug\MesajSistemi.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\obj\Debug\MesajSistemi.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\obj\Debug\MesajlasmaSistemi.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\obj\Debug\MesajlasmaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\obj\Debug\MesajSistemi.exe
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\obj\Debug\MesajSistemi.pdb
+C:\Users\elif.yildirim\MY_25Te25\MesajSistemi\obj\Debug\MesajSistemi.Form2.resources
