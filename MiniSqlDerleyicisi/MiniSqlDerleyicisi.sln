@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSqlDerleyicisi", "MiniSqlDerleyicisi.csproj", "{D21B3399-1D06-4574-9EE1-E16D93F3383B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21B3399-1D06-4574-9EE1-E16D93F3383B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21B3399-1D06-4574-9EE1-E16D93F3383B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21B3399-1D06-4574-9EE1-E16D93F3383B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21B3399-1D06-4574-9EE1-E16D93F3383B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94EFB068-0304-4BE1-B7DD-1EC6F65A3F88}
+	EndGlobalSection
+EndGlobal
