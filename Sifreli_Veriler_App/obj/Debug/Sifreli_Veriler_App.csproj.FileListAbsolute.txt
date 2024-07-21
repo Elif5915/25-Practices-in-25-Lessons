@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\bin\Debug\Sifreli_Veriler_App.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\bin\Debug\Sifreli_Veriler_App.exe
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\bin\Debug\Sifreli_Veriler_App.pdb
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\obj\Debug\Sifreli_Veriler_App.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\obj\Debug\Sifreli_Veriler_App.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\obj\Debug\Sifreli_Veriler_App.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\obj\Debug\Sifreli_Veriler_App.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\obj\Debug\Sifreli_Veriler_App.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\obj\Debug\Sifreli_Veriler_App.exe
+C:\Users\elif.yildirim\MY_25Te25\Sifreli_Veriler_App\obj\Debug\Sifreli_Veriler_App.pdb
