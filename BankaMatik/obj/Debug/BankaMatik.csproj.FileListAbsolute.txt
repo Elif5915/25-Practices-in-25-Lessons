@@ -1,0 +1,12 @@
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\bin\Debug\BankaMatik.exe.config
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\bin\Debug\BankaMatik.exe
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\bin\Debug\BankaMatik.pdb
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.Form2.resources
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.Form3.resources
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.exe
+C:\Users\elif.yildirim\MY_25Te25\BankaMatik\obj\Debug\BankaMatik.pdb
