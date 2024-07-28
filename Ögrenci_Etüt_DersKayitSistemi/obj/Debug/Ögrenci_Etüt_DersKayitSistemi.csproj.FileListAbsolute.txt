@@ -1,0 +1,13 @@
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\bin\Debug\Ögrenci_Etüt_DersKayitSistemi.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\bin\Debug\Ögrenci_Etüt_DersKayitSistemi.exe
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\bin\Debug\Ögrenci_Etüt_DersKayitSistemi.pdb
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.exe
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.pdb
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.Form2.resources
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.Form3.resources
+C:\Users\elif.yildirim\MY_25Te25\Ögrenci_Etüt_DersKayitSistemi\obj\Debug\Ögrenci_Etüt_DersKayitSistemi.Form4.resources
