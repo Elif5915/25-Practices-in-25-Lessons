@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\bin\Debug\Trigger_Kitap.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\bin\Debug\Trigger_Kitap.exe
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\bin\Debug\Trigger_Kitap.pdb
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\obj\Debug\Trigger_Kitap.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\obj\Debug\Trigger_Kitap.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\obj\Debug\Trigger_Kitap.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\obj\Debug\Trigger_Kitap.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\obj\Debug\Trigger_Kitap.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\obj\Debug\Trigger_Kitap.exe
+C:\Users\elif.yildirim\MY_25Te25\Trigger_Kitap\obj\Debug\Trigger_Kitap.pdb
