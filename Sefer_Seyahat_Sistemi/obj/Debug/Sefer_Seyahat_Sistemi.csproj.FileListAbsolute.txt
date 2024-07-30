@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\bin\Debug\Sefer_Seyahat_Sistemi.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\bin\Debug\Sefer_Seyahat_Sistemi.exe
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\bin\Debug\Sefer_Seyahat_Sistemi.pdb
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\obj\Debug\Sefer_Seyahat_Sistemi.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\obj\Debug\Sefer_Seyahat_Sistemi.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\obj\Debug\Sefer_Seyahat_Sistemi.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\obj\Debug\Sefer_Seyahat_Sistemi.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\obj\Debug\Sefer_Seyahat_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\obj\Debug\Sefer_Seyahat_Sistemi.exe
+C:\Users\elif.yildirim\MY_25Te25\Sefer_Seyahat_Sistemi\obj\Debug\Sefer_Seyahat_Sistemi.pdb
