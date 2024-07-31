@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\obj\Debug\Petrol_StokTakipApp.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\obj\Debug\Petrol_StokTakipApp.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\obj\Debug\Petrol_StokTakipApp.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\elif.yildirim\MY_25Te25\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
