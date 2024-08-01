@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dosyaİslemleri_ResimApp", "Dosyaİslemleri_ResimApp.csproj", "{CE4CD930-AF3B-4041-BFEC-E6FDEB9608D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4CD930-AF3B-4041-BFEC-E6FDEB9608D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4CD930-AF3B-4041-BFEC-E6FDEB9608D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4CD930-AF3B-4041-BFEC-E6FDEB9608D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4CD930-AF3B-4041-BFEC-E6FDEB9608D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9ECF97B-8F87-40D7-A6AE-8D02BFC50336}
+	EndGlobalSection
+EndGlobal

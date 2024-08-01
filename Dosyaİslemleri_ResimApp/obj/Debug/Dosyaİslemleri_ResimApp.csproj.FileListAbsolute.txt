@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\bin\Debug\Dosyaİslemleri_ResimApp.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\bin\Debug\Dosyaİslemleri_ResimApp.exe
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\bin\Debug\Dosyaİslemleri_ResimApp.pdb
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\obj\Debug\Dosyaİslemleri_ResimApp.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\obj\Debug\Dosyaİslemleri_ResimApp.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\obj\Debug\Dosyaİslemleri_ResimApp.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\obj\Debug\Dosyaİslemleri_ResimApp.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\obj\Debug\Dosyaİslemleri_ResimApp.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\obj\Debug\Dosyaİslemleri_ResimApp.exe
+C:\Users\elif.yildirim\MY_25Te25\Dosyaİslemleri_ResimApp\obj\Debug\Dosyaİslemleri_ResimApp.pdb
