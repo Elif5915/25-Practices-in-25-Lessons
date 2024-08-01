@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\bin\Debug\ExcelCrudApp.exe.config
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\bin\Debug\ExcelCrudApp.exe
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\bin\Debug\ExcelCrudApp.pdb
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\obj\Debug\ExcelCrudApp.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\obj\Debug\ExcelCrudApp.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\obj\Debug\ExcelCrudApp.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\obj\Debug\ExcelCrudApp.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\obj\Debug\ExcelCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\obj\Debug\ExcelCrudApp.exe
+C:\Users\elif.yildirim\MY_25Te25\ExcelCrudApp\obj\Debug\ExcelCrudApp.pdb
