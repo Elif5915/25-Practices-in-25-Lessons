@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\bin\Debug\RSS_İnternettenHaberBasliklariCekme.exe.config
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\bin\Debug\RSS_İnternettenHaberBasliklariCekme.exe
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\bin\Debug\RSS_İnternettenHaberBasliklariCekme.pdb
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\obj\Debug\RSS_İnternettenHaberBasliklariCekme.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\obj\Debug\RSS_İnternettenHaberBasliklariCekme.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\obj\Debug\RSS_İnternettenHaberBasliklariCekme.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\obj\Debug\RSS_İnternettenHaberBasliklariCekme.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\obj\Debug\RSS_İnternettenHaberBasliklariCekme.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\obj\Debug\RSS_İnternettenHaberBasliklariCekme.exe
+C:\Users\elif.yildirim\MY_25Te25\RSS_İnternettenHaberBasliklariCekme\obj\Debug\RSS_İnternettenHaberBasliklariCekme.pdb
