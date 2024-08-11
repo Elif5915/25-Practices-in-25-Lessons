@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\bin\Debug\Kitaplık_App.exe.config
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\bin\Debug\Kitaplık_App.exe
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\bin\Debug\Kitaplık_App.pdb
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\obj\Debug\Kitaplık_App.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\obj\Debug\Kitaplık_App.txtKitapAd.resources
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\obj\Debug\Kitaplık_App.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\obj\Debug\Kitaplık_App.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\obj\Debug\Kitaplık_App.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\obj\Debug\Kitaplık_App.exe
+C:\Users\elif.yildirim\MY_25Te25\Kitaplık_App\obj\Debug\Kitaplık_App.pdb
