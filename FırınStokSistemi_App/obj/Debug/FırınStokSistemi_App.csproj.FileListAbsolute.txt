@@ -1,0 +1,10 @@
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\bin\Debug\FırınStokSistemi_App.exe.config
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\bin\Debug\FırınStokSistemi_App.exe
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\bin\Debug\FırınStokSistemi_App.pdb
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\obj\Debug\FırınStokSistemi_App.csproj.AssemblyReference.cache
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\obj\Debug\FırınStokSistemi_App.Form1.resources
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\obj\Debug\FırınStokSistemi_App.Properties.Resources.resources
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\obj\Debug\FırınStokSistemi_App.csproj.GenerateResource.cache
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\obj\Debug\FırınStokSistemi_App.csproj.CoreCompileInputs.cache
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\obj\Debug\FırınStokSistemi_App.exe
+C:\Users\elif.yildirim\MY_25Te25\FırınStokSistemi_App\obj\Debug\FırınStokSistemi_App.pdb
